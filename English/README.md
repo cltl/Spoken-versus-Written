@@ -2,6 +2,7 @@
 
 ## Requirements
 
+* CPIDR 3.2.3738.41169
 * Python 3.6
     - tabulate 0.7.7
     - spacy 2.0.4
