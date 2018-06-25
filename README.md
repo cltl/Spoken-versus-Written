@@ -1,4 +1,5 @@
 # Varying image description tasks: spoken versus written descriptions
+*Emiel van Miltenburg, Ruud Koolen, and Emiel Krahmer*
 
 This folder contains all the code and data to reproduce the results from our paper.
 There are two subfolders:
