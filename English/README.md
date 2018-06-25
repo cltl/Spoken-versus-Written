@@ -12,6 +12,8 @@
 
 ## Steps
 
+* First unzip the MS COCO data in `Spoken-versus-Written/English/Resources/MSCOCO`.
+
 ### Main table
 
 Please run the following commands in order:
