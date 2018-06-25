@@ -1,0 +1,16 @@
+frog -t DIDEC-plain/descriptions_0.txt -o DIDEC-tagged/output_0.txt
+frog -t DIDEC-plain/descriptions_1.txt -o DIDEC-tagged/output_1.txt
+frog -t DIDEC-plain/descriptions_2.txt -o DIDEC-tagged/output_2.txt
+frog -t DIDEC-plain/descriptions_3.txt -o DIDEC-tagged/output_3.txt
+frog -t DIDEC-plain/descriptions_4.txt -o DIDEC-tagged/output_4.txt
+frog -t DIDEC-plain/descriptions_5.txt -o DIDEC-tagged/output_5.txt
+frog -t DIDEC-plain/descriptions_6.txt -o DIDEC-tagged/output_6.txt
+frog -t DIDEC-plain/descriptions_7.txt -o DIDEC-tagged/output_7.txt
+frog -t DIDEC-plain/descriptions_8.txt -o DIDEC-tagged/output_8.txt
+frog -t DIDEC-plain/descriptions_9.txt -o DIDEC-tagged/output_9.txt
+frog -t DIDEC-plain/descriptions_10.txt -o DIDEC-tagged/output_10.txt
+frog -t DIDEC-plain/descriptions_11.txt -o DIDEC-tagged/output_11.txt
+frog -t DIDEC-plain/descriptions_12.txt -o DIDEC-tagged/output_12.txt
+frog -t DIDEC-plain/descriptions_13.txt -o DIDEC-tagged/output_13.txt
+frog -t DIDEC-plain/descriptions_14.txt -o DIDEC-tagged/output_14.txt
+frog -t DIDEC-plain/descriptions_15.txt -o DIDEC-tagged/output_15.txt
